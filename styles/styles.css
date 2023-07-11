@@ -84,7 +84,6 @@
     justify-content: space-around;   
 }
 .flower1{
-    row-gap: -50px;
 }
 .flower-img1{
     width: 250px;
@@ -138,5 +137,29 @@
     background:#E55473;
     color: white;
     font-size: 16px;
+}
+ /* footer section */
+.footer-content{
+    padding-top: 150px;
+    text-align: center;
+    background: black;
+    color: white;
+    height: 300px;
+}
+.footer-title{
+    font-size: 48px;
+    font-family: Lato;
+}
+.footer-des{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-family: Lato;
+    width: 625px;
+    margin-left: 27%;
+    margin-top: 15px;
+}
+.copyright{
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.40);
 }
 
